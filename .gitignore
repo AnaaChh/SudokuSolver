@@ -1,0 +1,5 @@
+venv
+.idea
+__pycache__
+afisare.py
+frames_example.py
